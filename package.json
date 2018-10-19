@@ -1,0 +1,41 @@
+{
+  "name": "react-native-message-ui",
+  "version": "1.0.0",
+  "description": "React Native Message UI for SMS window UI handling in the app",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MCROEngineering/react-native-message-ui"
+  },
+  "main": "index.js",
+  "keywords": [
+    "react-native",
+    "react-native-message",
+    "react-native-sms",
+    "react-native-email",
+    "react-native-email-composer",
+    "react-native message components",
+    "react-native message component",
+    "ios",
+    "android",
+    "message"
+  ],
+  "author": {
+    "name": "Alex Lazar",
+    "email": "alex.lazar@mcro.tech",
+    "url": "https://mcro.tech"
+  },
+  "license": "ISC",
+  "contributors": [
+    {
+      "name": "alextkd",
+      "email": "alextkd123@yahoo.com"
+    }
+  ],
+  "peerDependencies": {
+    "react-native": "^0.41.2",
+    "react-native-windows": "0.41.0-rc.1"
+  },
+  "dependencies": {
+    "react-native": "^0.41.2"
+  }
+}

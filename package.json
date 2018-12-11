@@ -20,11 +20,11 @@
     "message"
   ],
   "author": {
-    "name": "Alex Lazar",
-    "email": "alex.lazar@mcro.tech",
+    "name": "MCRO",
+    "email": "contact@mcro.tech",
     "url": "https://mcro.tech"
   },
-  "license": "ISC",
+  "license": "MIT",
   "contributors": [
     {
       "name": "alextkd",
@@ -32,7 +32,6 @@
     }
   ],
   "peerDependencies": {
-    "react-native": "^0.41.2",
-    "react-native-windows": "0.41.0-rc.1"
+    "react-native": "^0.41.2"
   }
 }
